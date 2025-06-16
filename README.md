@@ -54,7 +54,7 @@ pip install -r ../requirements.txt
 ### 3. Prepare Known Faces
 
 - Place clear, front-facing images of people you want to recognize in the `known_faces` folder.
-- Name each image as the person's name (e.g., `alice.jpg`, `bob.jpg`).
+- Name each image as the person's name (e.g., `elon.jpg`, `musk.jpg`).
 - **No personal images are included in this repo for privacy.**
 
 ### 4. Prepare Haar Cascade
